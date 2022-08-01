@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/gif-converter/static/js/main.f07aa91d.js",
+    "static/js/787.f23a4f80.chunk.js": "/gif-converter/static/js/787.f23a4f80.chunk.js",
+    "index.html": "/gif-converter/index.html",
+    "main.f07aa91d.js.map": "/gif-converter/static/js/main.f07aa91d.js.map",
+    "787.f23a4f80.chunk.js.map": "/gif-converter/static/js/787.f23a4f80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f07aa91d.js"
+  ]
+}
